@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yeathatsmee
+- 🌱 I’m currently learning javaScript, HTML, python, Linux
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...
